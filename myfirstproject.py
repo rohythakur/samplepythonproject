@@ -7,5 +7,6 @@ elif y>=0 or y<=17:
   print "you are a teen ",x
 else:
   print "please enter a valid age"
-
+break
+print "thank you for using this"
 
